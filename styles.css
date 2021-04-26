@@ -1,0 +1,26 @@
+body {background-color: white;}
+
+.container{width:350px;height: 500px;border: 2px solid black;}
+
+#header{background-color: blueviolet;height: 90px;width: 200px;display: inline-block;}
+
+.img{padding-top: none;}
+
+.img img{width: 100%;}
+
+p{padding: 5px;font-size: 15px;}
+
+.icons{padding: 10px;display: inline-block;}
+
+.save {float: right;size: 30px;}
+
+.fa-ellipsis-v{float: right;margin-top: 10px;margin-right: 5px;}
+
+.fa-html5{ padding: 10px;font-size: 20px;width: 30px;position: relative;}
+
+.name{ font-size: 10px; }
+
+
+.header p{text-align: inherit;}
+
+.footer p{padding: 4px;}
